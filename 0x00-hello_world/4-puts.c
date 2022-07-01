@@ -2,9 +2,10 @@
 /**
  * main -entry point
  *
- * return: 0 after printing the function
+ * return:Always 0 (Success)
  */
 int main(void)
-{puts("\"programming is like building a multilingual puzzel");
-	return (0);
+{
+puts("\"programming is like building a multilingual puzzel");
+return (0);
 }
