@@ -24,5 +24,5 @@ char *rot13(char *s)
 		count++;
 	}
 
-	return (s);
+	= 0; i < 52; i++)return (s ;
 }
